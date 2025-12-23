@@ -1,3 +1,4 @@
 # Distributed-STS
-Distrbuted State Transition System Approach<\br>
+Distrbuted State Transition System Approach
+
 Start by generating the event set

@@ -31,7 +31,7 @@ The CSTS Database is designed to handle and preserve vital data from the wide-ar
 The schema of the state relation table for CSTS is defined as follows:
 
     OccupantID (TEXT): Unique identifier for each occupant.
-   ZoneID (TEXT): Unique identifier for a zone.
+    ZoneID (TEXT): Unique identifier for a zone.
     Probability (REAL): Likelihood of the occupant being in a given zone.
     Time(TEXT): Timestamp corresponding to the recorded event.
 
